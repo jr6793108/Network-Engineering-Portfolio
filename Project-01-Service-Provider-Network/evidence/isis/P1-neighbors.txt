@@ -1,0 +1,3 @@
+Area CORE:
+ System Id           Interface   L  State         Holdtime SNPA
+ P2                  eth1        2  Up            28       2020.2020.2020

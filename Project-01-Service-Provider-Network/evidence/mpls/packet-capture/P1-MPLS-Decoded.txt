@@ -1,0 +1,45 @@
+03:46:47.776427 aa:c1:ab:72:27:3a > aa:c1:ab:3c:ca:68, ethertype MPLS unicast (0x8847), length 102: MPLS (label 19, tc 0, [S], ttl 64)
+	(tos 0x0, ttl 64, id 25357, offset 0, flags [DF], proto ICMP (1), length 84)
+    10.255.0.11 > 10.255.0.12: ICMP echo request, id 160, seq 0, length 64
+03:46:48.276482 aa:c1:ab:72:27:3a > aa:c1:ab:3c:ca:68, ethertype MPLS unicast (0x8847), length 102: MPLS (label 19, tc 0, [S], ttl 64)
+	(tos 0x0, ttl 64, id 25823, offset 0, flags [DF], proto ICMP (1), length 84)
+    10.255.0.11 > 10.255.0.12: ICMP echo request, id 160, seq 1, length 64
+03:46:48.776530 aa:c1:ab:72:27:3a > aa:c1:ab:3c:ca:68, ethertype MPLS unicast (0x8847), length 102: MPLS (label 19, tc 0, [S], ttl 64)
+	(tos 0x0, ttl 64, id 25841, offset 0, flags [DF], proto ICMP (1), length 84)
+    10.255.0.11 > 10.255.0.12: ICMP echo request, id 160, seq 2, length 64
+03:46:49.276622 aa:c1:ab:72:27:3a > aa:c1:ab:3c:ca:68, ethertype MPLS unicast (0x8847), length 102: MPLS (label 19, tc 0, [S], ttl 64)
+	(tos 0x0, ttl 64, id 26121, offset 0, flags [DF], proto ICMP (1), length 84)
+    10.255.0.11 > 10.255.0.12: ICMP echo request, id 160, seq 3, length 64
+03:46:49.776676 aa:c1:ab:72:27:3a > aa:c1:ab:3c:ca:68, ethertype MPLS unicast (0x8847), length 102: MPLS (label 19, tc 0, [S], ttl 64)
+	(tos 0x0, ttl 64, id 26298, offset 0, flags [DF], proto ICMP (1), length 84)
+    10.255.0.11 > 10.255.0.12: ICMP echo request, id 160, seq 4, length 64
+03:46:50.276741 aa:c1:ab:72:27:3a > aa:c1:ab:3c:ca:68, ethertype MPLS unicast (0x8847), length 102: MPLS (label 19, tc 0, [S], ttl 64)
+	(tos 0x0, ttl 64, id 26408, offset 0, flags [DF], proto ICMP (1), length 84)
+    10.255.0.11 > 10.255.0.12: ICMP echo request, id 160, seq 5, length 64
+03:46:50.776796 aa:c1:ab:72:27:3a > aa:c1:ab:3c:ca:68, ethertype MPLS unicast (0x8847), length 102: MPLS (label 19, tc 0, [S], ttl 64)
+	(tos 0x0, ttl 64, id 26808, offset 0, flags [DF], proto ICMP (1), length 84)
+    10.255.0.11 > 10.255.0.12: ICMP echo request, id 160, seq 6, length 64
+03:46:51.276971 aa:c1:ab:72:27:3a > aa:c1:ab:3c:ca:68, ethertype MPLS unicast (0x8847), length 102: MPLS (label 19, tc 0, [S], ttl 64)
+	(tos 0x0, ttl 64, id 26822, offset 0, flags [DF], proto ICMP (1), length 84)
+    10.255.0.11 > 10.255.0.12: ICMP echo request, id 160, seq 7, length 64
+03:46:51.777098 aa:c1:ab:72:27:3a > aa:c1:ab:3c:ca:68, ethertype MPLS unicast (0x8847), length 102: MPLS (label 19, tc 0, [S], ttl 64)
+	(tos 0x0, ttl 64, id 27261, offset 0, flags [DF], proto ICMP (1), length 84)
+    10.255.0.11 > 10.255.0.12: ICMP echo request, id 160, seq 8, length 64
+03:46:52.277143 aa:c1:ab:72:27:3a > aa:c1:ab:3c:ca:68, ethertype MPLS unicast (0x8847), length 102: MPLS (label 19, tc 0, [S], ttl 64)
+	(tos 0x0, ttl 64, id 27736, offset 0, flags [DF], proto ICMP (1), length 84)
+    10.255.0.11 > 10.255.0.12: ICMP echo request, id 160, seq 9, length 64
+03:46:52.777237 aa:c1:ab:72:27:3a > aa:c1:ab:3c:ca:68, ethertype MPLS unicast (0x8847), length 102: MPLS (label 19, tc 0, [S], ttl 64)
+	(tos 0x0, ttl 64, id 27843, offset 0, flags [DF], proto ICMP (1), length 84)
+    10.255.0.11 > 10.255.0.12: ICMP echo request, id 160, seq 10, length 64
+03:46:53.277292 aa:c1:ab:72:27:3a > aa:c1:ab:3c:ca:68, ethertype MPLS unicast (0x8847), length 102: MPLS (label 19, tc 0, [S], ttl 64)
+	(tos 0x0, ttl 64, id 28078, offset 0, flags [DF], proto ICMP (1), length 84)
+    10.255.0.11 > 10.255.0.12: ICMP echo request, id 160, seq 11, length 64
+03:46:53.777428 aa:c1:ab:72:27:3a > aa:c1:ab:3c:ca:68, ethertype MPLS unicast (0x8847), length 102: MPLS (label 19, tc 0, [S], ttl 64)
+	(tos 0x0, ttl 64, id 28106, offset 0, flags [DF], proto ICMP (1), length 84)
+    10.255.0.11 > 10.255.0.12: ICMP echo request, id 160, seq 12, length 64
+03:46:54.277483 aa:c1:ab:72:27:3a > aa:c1:ab:3c:ca:68, ethertype MPLS unicast (0x8847), length 102: MPLS (label 19, tc 0, [S], ttl 64)
+	(tos 0x0, ttl 64, id 28491, offset 0, flags [DF], proto ICMP (1), length 84)
+    10.255.0.11 > 10.255.0.12: ICMP echo request, id 160, seq 13, length 64
+03:46:54.777548 aa:c1:ab:72:27:3a > aa:c1:ab:3c:ca:68, ethertype MPLS unicast (0x8847), length 102: MPLS (label 19, tc 0, [S], ttl 64)
+	(tos 0x0, ttl 64, id 28784, offset 0, flags [DF], proto ICMP (1), length 84)
+    10.255.0.11 > 10.255.0.12: ICMP echo request, id 160, seq 14, length 64

@@ -1,0 +1,4 @@
+16 via inet 10.0.12.2 dev eth1 proto 193 
+17 via inet 10.0.12.2 dev eth1 proto 193 
+18 via inet 10.0.11.2 dev eth2 proto 193 
+19 as to 19 via inet 10.0.12.2 dev eth1 proto 193 

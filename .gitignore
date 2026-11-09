@@ -1,0 +1,37 @@
+# Containerlab generated runtime files
+**/clab-*/
+
+# Private keys and certificates
+*.key
+*.pem
+*.p12
+*.pfx
+id_rsa
+id_ed25519
+
+# Credentials and environment files
+.env
+.env.*
+*.secret
+*.secrets
+
+# Temporary files
+*.log
+*.tmp
+*.swp
+*~
+__pycache__/
+*.pyc
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Additional sensitive files
+*.crt
+*.p8
+*.p12
+*.pfx
+*.kubeconfig
+credentials.json
+secrets.yaml

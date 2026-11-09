@@ -1,0 +1,9 @@
+PING 10.255.0.11 (10.255.0.11) from 10.255.0.12: 56 data bytes
+64 bytes from 10.255.0.11: seq=0 ttl=62 time=0.045 ms
+64 bytes from 10.255.0.11: seq=1 ttl=62 time=0.067 ms
+64 bytes from 10.255.0.11: seq=2 ttl=62 time=0.040 ms
+64 bytes from 10.255.0.11: seq=3 ttl=62 time=0.039 ms
+
+--- 10.255.0.11 ping statistics ---
+4 packets transmitted, 4 packets received, 0% packet loss
+round-trip min/avg/max = 0.039/0.047/0.067 ms

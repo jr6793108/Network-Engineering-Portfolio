@@ -1,0 +1,8 @@
+ Inbound Label  Type  Nexthop    Outbound Label  
+ ------------------------------------------------
+ 16             LDP   10.0.11.1  implicit-null   
+ 17             LDP   10.0.11.1  17              
+ 18             LDP   10.0.11.1  implicit-null   
+ 19             LDP   10.0.11.1  16              
+ 20             LDP   10.0.11.1  19              
+

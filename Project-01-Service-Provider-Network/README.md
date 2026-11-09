@@ -6,21 +6,10 @@ This hands-on lab builds and validates a service provider MPLS transport network
 
 ## Network Architecture
 
-```mermaid
-flowchart LR
-    PE1["PE1<br/>Edge<br/>10.255.0.11"]
-    P1["P1<br/>Core<br/>10.255.0.1"]
-    P2["P2<br/>Core<br/>10.255.0.2"]
-    PE2["PE2<br/>Edge<br/>10.255.0.12"]
+This project implements a four-router service provider MPLS transport network using Containerlab and FRRouting.
 
-    PE1 ---|"10.0.11.0/30"| P1
-    P1 ---|"10.0.12.0/30"| P2
-    P2 ---|"10.0.22.0/30"| PE2
+![Service Provider MPLS Network Topology](architecture/Service-Provider-MPLS-Topology.png)
 
-    classDef edge fill:#dcfce7,stroke:#16a34a,color:#14532d
-    classDef core fill:#dbeafe,stroke:#2563eb,color:#1e3a8a
-    class PE1,PE2 edge
-    class P1,P2 core
 ```
 
 *Logical topology: PE1 → P1 → P2 → PE2. Addresses inside router nodes are /32 loopbacks; link labels identify /30 transport subnets.*

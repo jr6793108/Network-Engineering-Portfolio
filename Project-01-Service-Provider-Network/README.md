@@ -10,7 +10,6 @@ This project implements a four-router service provider MPLS transport network us
 
 ![Service Provider MPLS Network Topology](architecture/Service-Provider-MPLS-Topology.png)
 
-```
 
 *Logical topology: PE1 → P1 → P2 → PE2. Addresses inside router nodes are /32 loopbacks; link labels identify /30 transport subnets.*
 

@@ -4,6 +4,9 @@
 **Platform:** Ubuntu, Containerlab, FRRouting 10.3.1_git, Docker.  
 **Topology:** CE1 — PE1 — P1 — P2 — PE2 — CE2.
 
+![Six-Router MPLS L3VPN Network Architecture](architecture/Service-Provider-MPLS-Topology.png)
+
+
 ## Project scope
 
 This project validates a six-router service-provider lab with an IS-IS Level 2 underlay, MPLS/LDP transport, MP-BGP VPNv4 exchange, and a CUSTOMER-A Layer 3 VPN. The isolated recovery environment was validated without modifying the original or persistence environments.
